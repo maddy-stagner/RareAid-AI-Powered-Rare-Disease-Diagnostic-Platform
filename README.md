@@ -1,5 +1,5 @@
 # RareAid-AI-Powered-Rare-Disease-Diagnostic-Platform
-Project Overview
+
 RareAid is an innovative AI-driven platform designed for the early detection and diagnosis of rare diseases. This project simulates a healthcare diagnostic tool using synthetic data generation, machine learning (via TensorFlow/Keras for disease prediction based on symptoms and genetic markers), and an interactive user interface built with Gradio. The system generates synthetic patient data for rare diseases, trains a neural network model to predict diseases from symptoms and genes, and includes a chatbot interface for symptom-based questioning.
 Key features:
 
